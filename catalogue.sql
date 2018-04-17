@@ -18,6 +18,7 @@
 --
 -- Table structure for table `catalogue`
 --
+aaa
 
 DROP TABLE IF EXISTS `catalogue`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
